@@ -1,7 +1,7 @@
 ## Hey! I'm Karol 🚀
 - ❤️ I've been passionate about technology since I was 14yo
-- 🎓 Computer Engineering Student at UFPA
-- 💼 Web Developer Intern at Seazone
+- 🎓 Computer Engineering Student at (UFPA)[https://ufpa.br/]
+- 💼 Web Developer Intern at [Seazone](https://seazone.com.br/)
 
 <p align="left">
   <a href="mailto:karolwojtyla360@gmail.com" title="Gmail">
