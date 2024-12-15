@@ -22,7 +22,7 @@
 
 [<img align="left" height="92px" width="92px" alt="Seazone" src="https://media.licdn.com/dms/image/v2/C4E0BAQGCDQwk8HjmRA/company-logo_200_200/company-logo_200_200/0/1637093897739/weareseazone_logo?e=1738800000&v=beta&t=3CU-AhBKJ_scRRNxLZZ1rK_UUhvk6tCy0TDPkYMubcQ"/>](https://seazone.com.br/)
 
-*Web Developer Intern* \
+*Software Engineer Intern* \
 [*Seazone*](https://seazone.com.br/) • Internship \
 Languages & Technologies: `React`, `Next.js`, `Typescript`\
 Sep 2024 - Present
