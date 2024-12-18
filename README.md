@@ -43,7 +43,7 @@ Sep 2022 - Sep 2024
 
 [<img align="left" height="92px" width="92px" alt="UFPA" src="https://media.licdn.com/dms/image/v2/C4D0BAQF5pgxwqpTcfw/company-logo_200_200/company-logo_200_200/0/1631330531313?e=1738800000&v=beta&t=Hk88gh9F4v3p-B9X0gbUMTXLLT7p6krvQ6tgZofeQ20"/>](https://www.ufpa.br/)
 
-*Web Developer & Suport* \
+*Web Developer & Support* \
 [*UFPA (IMV)*](https://imv.ufpa.br/) • Internship \
 Languages & Technologies: `HTML5`, `CSS3`, `PHP`\
 Mar 2022 - Sep 2022
