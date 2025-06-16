@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,tailwind,html,css,styledcomponents)](https://skillicons.dev)
 
 ## 🛠️ My Tools 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,photoshop,figma,vscode,windows,sentry)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,photoshop,figma,vscode,windows,sentry)](https://skillicons.dev)
 
 ## 💼 My Work Experience 
 
