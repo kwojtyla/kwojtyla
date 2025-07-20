@@ -1,4 +1,4 @@
-## Hey! I'm Karol 🚀
+## Hi! I'm Karol 🚀
 - ❤️ I've been passionate about technology since I was 14yo
 - 🎓 Computer Engineering Student at [UFPA](https://ufpa.br/)
 - 💼 Software Engineer Intern at [Seazone](https://seazone.com.br/)
