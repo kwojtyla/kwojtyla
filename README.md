@@ -11,6 +11,8 @@
   <a href="https://www.instagram.com/karolwojtyla.dev/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
+ <a href="https://karolwojtyla.dev" title="Portfolio">
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="Portfolio"/></a>
 
 ## 💻 My Stack 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,tailwind,html,css,styledcomponents,materialui)](https://skillicons.dev)
