@@ -5,13 +5,13 @@
 
 <p align="left">
   <a href="mailto:karolwojtyla360@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/karolwojtyla/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/karolwojtyla.dev/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
- <a href="https://karolwojtyla.dev" title="Portfolio">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="Portfolio"/></a>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://karolwojtyla.dev" title="Portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-FFF?logo=Kaufland&logoColor=black" alt="Portfolio"/></a>
 </p>
 
 ## 💻 My Stack 
