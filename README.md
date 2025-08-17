@@ -26,7 +26,7 @@
 
 *Software Engineer Intern* \
 [*Seazone*](https://seazone.com.br/) • Internship \
-Languages & Technologies: `React`, `Next.js`, `Typescript`\
+Languages & Technologies: `React`, `Next.js`, `Typescript`, `Vite`\
 Sep 2024 - Present
 
 [<img align="left" height="92px" width="92px" alt="LinkJr" src="https://media.licdn.com/dms/image/v2/D4E0BAQHaPS3HOuR42A/company-logo_200_200/company-logo_200_200/0/1726182004162/linkjr_logo?e=2147483647&v=beta&t=_3D9hbJoRi_ZGSFv7n16vxEGXH17QCYqORQwEyR4kKo"/>](https://www.linkjr.com.br/)
