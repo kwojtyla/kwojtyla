@@ -58,7 +58,17 @@ Languages & Technologies: `HTML5`, `CSS3`, `PHP`\
 Out 2018 - Mar 2019
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/karolwojtyla/) to explore my professional background, including my work experience, education, and certifications in detail.
-## GitHub Stats 🌟 
+
+## 🎖️ My Certifications
+
+<a href="https://www.credly.com/badges/ec1fd9dc-38fb-419d-b5cb-b95dacb8b7c3">
+  <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="120px" width="120px" alt="AWS Certified Developer Associate badge"/></a>
+<a href="https://www.credly.com/badges/dc2b6127-aa56-46f0-91f4-8d68abcf7dd1">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="120px" width="120px" alt="AWS Certified Cloud Practictioner badge"/></a>
+<a href="https://www.credly.com/badges/12582752-f23c-4179-80ff-ceedc7493f48">
+  <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" height="120px" width="120px" alt="AWS Certified Cloud Practictioner badge"/></a>
+
+## 🌟 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kwojtyla&theme=dark&hide_border=true&include_all_commits=true" alt="Github Stats" height="160px"  />
