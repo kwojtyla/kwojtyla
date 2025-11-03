@@ -24,8 +24,8 @@
 
 [<img align="left" height="92px" width="92px" alt="Seazone" src="https://media.licdn.com/dms/image/v2/C4E0BAQGCDQwk8HjmRA/company-logo_200_200/company-logo_200_200/0/1637093897739/weareseazone_logo?e=2147483647&v=beta&t=5SZ2GtHlycsFhBEgKHwwOURYqEf_qTkFM79TeWnwO8U"/>](https://seazone.com.br/)
 
-*Software Engineer Intern* \
-[*Seazone*](https://seazone.com.br/) • Internship \
+*Software Engineer* \
+[*Seazone*](https://seazone.com.br/) • Full-time \
 Languages & Technologies: `React`, `Next.js`, `Typescript`, `Vite`\
 Sep 2024 - Present
 
