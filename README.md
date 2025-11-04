@@ -38,7 +38,7 @@ Aug 2024 - Present
 
 [<img align="left" height="92px" width="92px" alt="Oi" src="https://media.licdn.com/dms/image/v2/D4D0BAQHSpZ63oeMgeA/company-logo_200_200/company-logo_200_200/0/1714513065939/oioficial_logo?e=2147483647&v=beta&t=2pbthu1PNzXZ27Ayx_Z4e8qPOLHHb6uLdI387Z4KlKo"/>](https://www.oi.com.br/)
 
-*System Architect Intern* \
+*Systems Architect Intern* \
 [*Oi S/A*](https://oi.com.br/) • Internship \
 Technologies: `Archi`, `ITSM`, `Power BI`\
 Sep 2022 - Sep 2024
@@ -52,7 +52,7 @@ Mar 2022 - Sep 2022
 
 [<img align="left" height="92px" width="92px" alt="IFPA" src="https://media.licdn.com/dms/image/v2/C4E0BAQGnZEWTF2wqKw/company-logo_200_200/company-logo_200_200/0/1630577567812?e=2147483647&v=beta&t=L3I9u9Fm3oOJp28vg8D5ZtbNWItz7AIksmlJWACTzQk"/>](https://www.braganca.ifpa.edu.br/)
 
-*Web Developer & Suport* \
+*Web Developer & Support* \
 [*IFPA*](https://braganca.ifpa.edu.br/) • Internship \
 Languages & Technologies: `HTML5`, `CSS3`, `PHP`\
 Out 2018 - Mar 2019
