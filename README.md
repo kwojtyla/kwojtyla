@@ -66,7 +66,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/karolwojt
 <a href="https://www.credly.com/badges/dc2b6127-aa56-46f0-91f4-8d68abcf7dd1">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="120px" width="120px" alt="AWS Certified Cloud Practictioner badge"/></a>
 <a href="https://www.credly.com/badges/12582752-f23c-4179-80ff-ceedc7493f48">
-  <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" height="120px" width="120px" alt="AWS Certified Cloud Practictioner badge"/></a>
+  <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" height="120px" width="120px" alt="AWS re/Start Graduate badge"/></a>
 
 ## 🌟 GitHub Stats
 
