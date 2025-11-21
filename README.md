@@ -1,5 +1,5 @@
 ## Hi! I'm Karol 🚀
-- ❤️ I've been passionate about technology since I was 14yo
+- ❤️ Totally passionate about transforming things with technology
 - 🎓 Computer Engineering Student at [UFPA](https://ufpa.br/)
 - 💼 Software Engineer at [Seazone](https://seazone.com.br/)
 
