@@ -71,7 +71,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/karolwojt
 ## 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwojtyla&theme=dark&hide_border=true&include_all_commits=true" alt="Github Stats" height="160px"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwojtyla&theme=dark&hide_border=true" alt="Top Languages" height="160px"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kwojtyla&theme=dark&hide_border=true&include_all_commits=true" alt="Github Stats" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwojtyla&theme=dark&hide_border=true" alt="Top Languages" height="160px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwojtyla&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="200px" />
 </p>
