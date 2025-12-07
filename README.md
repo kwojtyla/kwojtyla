@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/karolwojtyla.dev/" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://karolwojtyla.dev" title="Portfolio">
-    <img src="https://img.shields.io/badge/-Portfolio-FFF?logo=Kaufland&logoColor=black" alt="Portfolio"/></a>
+    <img src="https://img.shields.io/badge/-Portfolio-FFF?logo=Kaufland&logoColor=black" alt="Portfólio"/></a>
 </p>
 
 ## 💻 My Stack 
