@@ -57,7 +57,7 @@ Mar 2022 - Sep 2022
 Languages & Technologies: `HTML5`, `CSS3`, `PHP`\
 Out 2018 - Mar 2019
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/karolwojtyla/) to explore my professional background, including my work experience, education, and certifications in detail.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/karolwojtyla/) to explore my professional background, including my work experience, education, and certifications in detail. I'll be waiting for you!
 
 ## 🎖️ My Certifications
 
