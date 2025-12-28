@@ -15,7 +15,7 @@
 </p>
 
 ## 💻 My Stack 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,tailwind,html,css,styledcomponents,materialui,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,tailwind,html,css,styledcomponents,materialui)](https://skillicons.dev)
 
 ## 🛠️ My Tools 
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,gcp,photoshop,figma,vscode,windows,sentry,linux,vercel,postman,pnpm,npm)](https://skillicons.dev)
