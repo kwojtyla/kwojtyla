@@ -61,6 +61,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/karolwojt
 
 ## 🎖️ My Certifications
 
+<a href="https://www.credly.com/badges/61a5ae90-a070-49e5-98ad-f39adf84778e">
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="120px" width="120px" alt="AWS Certified Solutions Architect - Associate badge"/></a>
 <a href="https://www.credly.com/badges/ec1fd9dc-38fb-419d-b5cb-b95dacb8b7c3">
   <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="120px" width="120px" alt="AWS Certified Developer - Associate badge"/></a>
 <a href="https://www.credly.com/badges/dc2b6127-aa56-46f0-91f4-8d68abcf7dd1">
