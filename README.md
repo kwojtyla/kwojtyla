@@ -1,4 +1,5 @@
 ## Hi! I'm Karol 🚀
+
 - ❤️ Totally passionate about transforming things with technology
 - 🎓 Computer Engineer at [UFPA](https://ufpa.br/)
 - 💼 Software Engineer at [Seazone](https://seazone.com.br/)
